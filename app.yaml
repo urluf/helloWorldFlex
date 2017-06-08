@@ -15,5 +15,5 @@
 runtime: nodejs
 env: flex
 service: appengineflextest
-version: v1
+
 # [END app_yaml]
