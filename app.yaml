@@ -15,5 +15,6 @@
 runtime: nodejs
 env: flex
 service: appengineflextest
-
+automatic_scaling:
+  min_num_instances: 1
 # [END app_yaml]
