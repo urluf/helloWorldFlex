@@ -21,7 +21,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.status(200).send('HellooO, world!').end();
+  res.status(200).send('HeellooO, world!').end();
 });
 
 // Start the server
