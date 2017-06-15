@@ -17,4 +17,5 @@ env: flex
 service: appengineflextest
 automatic_scaling:
   min_num_instances: 1
+  max_num_instances: 20
 # [END app_yaml]
